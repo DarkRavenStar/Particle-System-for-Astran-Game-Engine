@@ -1,0 +1,45 @@
+﻿  Application.cpp
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\particleobject.h(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\particleobject.h(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\particleaffector.h(109): warning C4305: '=': truncation from 'double' to 'float'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\particleaffector.h(118): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\emittershape.h(95): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\emittershape.h(175): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\application.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\application.cpp(93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\application.cpp(132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication1.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\dependency\glfw\include\glfw\glfw3.h(104): note: see previous definition of 'APIENTRY'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\particleobject.h(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\particleobject.h(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\particleaffector.h(109): warning C4305: '=': truncation from 'double' to 'float'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\particleaffector.h(118): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\emittershape.h(95): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\emittershape.h(175): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\gui.h(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\gui.h(63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\gui.h(432): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\gui.h(443): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\gui.h(482): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\gui.h(600): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\gui.h(626): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\gui.h(652): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\gui.h(662): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\consoleapplication1.cpp(47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  GameObject.cpp
+  ParticleSystem.cpp
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\particleobject.h(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\particleobject.h(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\particleaffector.h(109): warning C4305: '=': truncation from 'double' to 'float'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\particleaffector.h(118): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\emittershape.h(95): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\emittershape.h(175): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Sprite.cpp
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\sprite.cpp(98): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Vector3.cpp
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\vector3.cpp(183): warning C4305: 'return': truncation from 'const double' to 'float'
+d:\game development\school project\semester 7\game engine\assignment 2\gameengine_vs\0118856_teena_particlesystem\consoleapplication1\vector3.cpp(187): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ConsoleApplication1.vcxproj -> D:\Game Development\School Project\Semester 7\Game Engine\Assignment 2\GameEngine_VS\0118856_Teena_ParticleSystem\Debug\Particle System by 0118856 Teena.exe
